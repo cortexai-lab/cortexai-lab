@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-# 🧬 About Cortex AI Lab
+# 🧬 About Cortex AI Research Group
 <img align="right" alt="AI Brain Animation" width="400" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif"/>
 
 Located within the **Department of Robotics and Mechatronics Engineering** at the **University of Dhaka**, Cortex AI Lab stands at the cutting edge of applied artificial intelligence. We pioneer innovative solutions at the intersection of:
